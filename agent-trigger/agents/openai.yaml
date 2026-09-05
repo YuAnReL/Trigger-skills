@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Trigger"
+  short_description: "Resume an agent when a long-running job finishes"
+  default_prompt: "Use $agent-trigger to run this experiment in the background and resume this task when it finishes."
